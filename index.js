@@ -13,7 +13,7 @@ console.log(userQuestion);
 let randomMessage = {
     beginning: ["you", "it", "this", "that", "question"],
     middle: [" will", " will definately", " certainly will", " might", " may", " won't", " will definately not", " 100% will not"],
-    end: [" happen in the next 10 years", " acontecer", " passar na sua vida seu cachorro", " come to fruition", "occur in your lifetime"],  
+    end: [" happen in the next 10 years", " acontecer", " passar na sua vida", " come to fruition", "occur in your lifetime", "chegar a acontecer"],  
 }
 
 function playGame () {
